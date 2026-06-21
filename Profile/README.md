@@ -1,12 +1,11 @@
 <p align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ascp-oss/.github/main/Images/photo_2026-06-21_22-27-50.jpg" width="12%" />
-  <img src="https://raw.githubusercontent.com/ascp-oss/.github/main/Images/photo_2026-06-21_22-27-58.jpg" width="12%" />
+  <img src="https://raw.githubusercontent.com/ascp-oss/.github/main/Images/photo_2026-06-21_22-27-50.jpg" width="22%" />
+  <img src="https://raw.githubusercontent.com/ascp-oss/.github/main/Images/photo_2026-06-21_22-27-58.jpg" width="22%" />
 </p>
-  <img src="https://raw.githubusercontent.com/ascp-oss/.github/main/Images/photo_2026-06-21_21-15-13.jpg" width="12%" />
-  <img src="https://raw.githubusercontent.com/ascp-oss/.github/main/Images/photo_2026-06-21_21-15-15.jpg" width="12%" />
-  <img src="https://raw.githubusercontent.com/ascp-oss/.github/main/Images/photo_2026-06-21_21-15-37.jpg" width="12%" />
-  <img src="https://raw.githubusercontent.com/ascp-oss/.github/main/Images/photo_2026-06-21_21-20-30.jpg" width="12%" />
+  <img src="https://raw.githubusercontent.com/ascp-oss/.github/main/Images/photo_2026-06-21_21-15-13.jpg" width="22%" />
+  <img src="https://raw.githubusercontent.com/ascp-oss/.github/main/Images/photo_2026-06-21_21-15-15.jpg" width="22%" />
+  <img src="https://raw.githubusercontent.com/ascp-oss/.github/main/Images/photo_2026-06-21_21-15-37.jpg" width="22%" />
+  <img src="https://raw.githubusercontent.com/ascp-oss/.github/main/Images/photo_2026-06-21_21-20-30.jpg" width="22%" />
 </p>
 
 # ASCP Source Archive
