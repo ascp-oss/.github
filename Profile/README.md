@@ -174,7 +174,8 @@ This archive contains work originating from:
 - Android Open Source Project (AOSP)
 - LineageOS
 - Pixel Os
-- ASCP contributors
+- Axion Os
+- ASCP Contributions (They kanged everything anyways)
 - Device maintainers
 - Various upstream open-source projects
 
@@ -194,7 +195,7 @@ Readers are encouraged to review:
 
 - Maintainer application discussion
 - Rejection conversation
-- Sai Krishna conversation
+- Axion Os Core Team Member conversation
 - Statements from project leadership
 - Project Elixir references
 - Repository history
