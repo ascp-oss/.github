@@ -1,3 +1,6 @@
+**Irony is they fedbanned from alot of groups without reading this**
+**Please open an issue, if you want monthly patches**
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ascp-oss/.github/main/Images/photo_2026-06-21_22-27-50.jpg" width="22%" />
   <img src="https://raw.githubusercontent.com/ascp-oss/.github/main/Images/photo_2026-06-21_22-27-58.jpg" width="22%" />
@@ -195,7 +198,7 @@ Readers are encouraged to review:
 
 - Maintainer application discussion
 - Rejection conversation
-- Axion Os Core Team Member conversation
+- Sai Krishna conversation
 - Statements from project leadership
 - Project Elixir references
 - Repository history
