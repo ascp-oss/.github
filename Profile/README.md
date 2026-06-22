@@ -1,4 +1,5 @@
-**Irony is they fedbanned from alot of groups without reading this**
+**Irony is they banned from alot of groups without reading this**
+
 **Please open an issue, if you want monthly patches**
 
 <p align="center">
